@@ -41,9 +41,9 @@ img {
     transform: translate(-50%, -50%);
 }
 #rcorners1 {
-    border-radius: 25px;
-    background: blue;
+    border-radius: 15px;
+    background: lightblue;
     padding: 20px; 
     width: 200px;
-    height: 150px; 
+    height: 30px; 
 }
