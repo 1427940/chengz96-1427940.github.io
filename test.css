@@ -1,3 +1,4 @@
+
 body{
 	background-image: url('dark_wood.jpg');
 }
@@ -9,12 +10,28 @@ body{
 	margin-bottom: 10px; 
 	border: solid 8px black;
 	text-align: center;
-	background-color: #8E41D5; 
+	background-color: purple; 
 }
 
-h3{
+h1, h2, h3{
 	color: #FFBC00;
 	font-size: 40px;
 	font-family: "Passion One";
 	margin-bottom: 0px;
+
 }
+
+
+#LeftNav{
+	float: left;
+	width: 400px;
+	border: solid 8px black;
+	text-align: center;
+	padding-bottom: 16px;
+	padding-left: 8px; 
+	padding-right: 8px;
+	background-color: purple; 
+}
+
+
+
