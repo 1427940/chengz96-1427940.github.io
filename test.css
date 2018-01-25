@@ -15,7 +15,14 @@ body{
 	background-color: #4b2e83; 
 }
 
-h1, h2, h3{
+h1{
+	color: #FFBC00;
+	font-size: 60px;
+	text-align: center;
+	font-family: "Passion One";
+}
+
+h2, h3{
 	color: #FFBC00;
 	font-size: 40px;
 	font-family: "Passion One";
@@ -62,4 +69,15 @@ p{
 	color:#FFBC00;
 	font-weight: bold;
 	font-size: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px; 
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
 }
