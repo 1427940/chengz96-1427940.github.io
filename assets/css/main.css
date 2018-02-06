@@ -3099,11 +3099,23 @@
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/bg.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
+		}
+
+		.wrapper.style3.pic01 {
+			background-image: url(../../images/pic01.jpg);
+		}
+		.wrapper.style3.pic02 {
+			background-image: url(../../images/pic02.jpg);
+		}
+		.wrapper.style3.pic03 {
+			background-image: url(../../images/pic03.jpg);
+		}
+		.wrapper.style3.pic04 {
+			background-image: url(../../images/pic04.jpg);
 		}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
