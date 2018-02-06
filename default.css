@@ -2112,7 +2112,7 @@
 		.select-wrapper:before {
 			content: '\f078';
 			display: block;
-			height: 2.75rem;
+			height: 4.75rem;
 			line-height: 2.75rem;
 			pointer-events: none;
 			position: absolute;
@@ -3101,16 +3101,16 @@
 		}
 
 		.wrapper.style3.pic01 {
-			background-image: url(../../images/pic01.jpg);
+			background-image: url(images/pic01.jpg);
 		}
 		.wrapper.style3.pic02 {
-			background-image: url(../../images/pic02.jpg);
+			background-image: url(images/pic02.jpg);
 		}
 		.wrapper.style3.pic03 {
-			background-image: url(../../images/pic03.jpg);
+			background-image: url(images/pic03.jpg);
 		}
 		.wrapper.style3.pic04 {
-			background-image: url(../../images/pic04.jpg);
+			background-image: url(images/pic04.jpg);
 		}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
@@ -3777,7 +3777,7 @@
 			}
 
 				#header > a[href="#menu"]:before {
-					content: "";
+					content: "》";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-family: FontAwesome;
